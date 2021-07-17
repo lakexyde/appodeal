@@ -19,7 +19,7 @@ A Flutter plugin to display ads from Appodeal; it supports the new reqs for iOS 
   s.static_framework = true
 
   # Appodeal Dependencies
-  #s.dependency 'APDAdColonyAdapter', '2.10.2.1'
+  s.dependency 'APDAdColonyAdapter', '2.9.1.1'
   s.dependency 'APDAmazonAdsAdapter', '2.10.1.1'
   s.dependency 'APDAppLovinAdapter', '2.10.1.2'
   s.dependency 'APDBidMachineAdapter', '2.10.1.2'
